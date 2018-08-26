@@ -16,3 +16,6 @@ IDEAS pendientes:
   + Display de voltaje de la batería del mando.
   + Display de último motor utilizado y su ángulo
   + Display con todos los angulos actuales del brazo
+
+
+Esto es una prueba para hacer una aportación, "commit"
